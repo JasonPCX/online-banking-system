@@ -100,23 +100,10 @@ pnpm --filter server start
 
 ## Screenshots
 
-### Login Page
-![Login](./docs/screenshots/1.png)
-
-### Sign Up
-![Sign Up](./docs/screenshots/2.png)
-
-### Dashboard / Home
-![Dashboard](./docs/screenshots/3.png)
-
-### Account Details
-![Account Details](./docs/screenshots/4.png)
-
-### Create Bank Account
-![Create Bank Account](./docs/screenshots/5.png)
-
-### Transaction Form
-![Transaction Form](./docs/screenshots/6.png)
-
-### API Documentation (Swagger)
-![API Docs](./docs/screenshots/7.png)
+![](./docs/screenshots/1.png)
+![](./docs/screenshots/2.png)
+![](./docs/screenshots/3.png)
+![](./docs/screenshots/4.png)
+![](./docs/screenshots/5.png)
+![](./docs/screenshots/6.png)
+![](./docs/screenshots/7.png)
