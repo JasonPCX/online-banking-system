@@ -1,0 +1,1 @@
+export const environments = ['production', 'development', 'test'];

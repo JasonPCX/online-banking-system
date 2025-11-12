@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+
+onlyBuiltDependencies:
+  - '@scarf/scarf'
+  - '@swc/core'
+  - bcrypt
+  - esbuild
